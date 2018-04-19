@@ -1,2 +1,2 @@
 # OpenSAP_Test_Project
-Another test for git 
+Test repository for the [opensap](https://open.sap.com) git module 
